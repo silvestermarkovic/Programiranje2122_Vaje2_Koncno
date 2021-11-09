@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga1", "Naloga1\Naloga1.csproj", "{6A4C0538-E443-467D-A428-0B676099AC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga2", "Naloga2\Naloga2.csproj", "{9ECB6A6D-643F-4515-A78E-73FAD6F5047B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga3", "Naloga3\Naloga3.csproj", "{4A90BA82-F9DC-492B-8D63-5DE4586EE867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A4C0538-E443-467D-A428-0B676099AC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4C0538-E443-467D-A428-0B676099AC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4C0538-E443-467D-A428-0B676099AC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4C0538-E443-467D-A428-0B676099AC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECB6A6D-643F-4515-A78E-73FAD6F5047B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECB6A6D-643F-4515-A78E-73FAD6F5047B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECB6A6D-643F-4515-A78E-73FAD6F5047B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECB6A6D-643F-4515-A78E-73FAD6F5047B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A90BA82-F9DC-492B-8D63-5DE4586EE867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A90BA82-F9DC-492B-8D63-5DE4586EE867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A90BA82-F9DC-492B-8D63-5DE4586EE867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A90BA82-F9DC-492B-8D63-5DE4586EE867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87FA07EE-E35D-4C5B-B4E1-4A23368F1033}
+	EndGlobalSection
+EndGlobal
